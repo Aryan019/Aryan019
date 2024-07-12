@@ -1,4 +1,5 @@
-![MasterHead](https://res.cloudinary.com/dkq95ickm/image/upload/v1714386941/yx08hgzdrnjkigral5ju.png)
+<img width="1834" alt="Aryan Design" src="https://github.com/user-attachments/assets/e2267280-b788-4eb9-9b4e-553e6c79faad">
+
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 
