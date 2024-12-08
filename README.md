@@ -5,7 +5,7 @@
 
 <h3 align="center">A Passionate Full-Stack Developer From India</h3>
 
-<img align="right" alt="Coding photograph" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding photograph" width="400" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan019&label=Profile%20views&color=0e75b6&style=flat" alt="aryan019" /> </p>
 
