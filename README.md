@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 
 <h3 align="center">A Passionate Full-Stack Developer From India</h3>
-
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="300">
+<br><br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan019&label=Profile%20views&color=0e75b6&style=flat" alt="aryan019" /> </p>
